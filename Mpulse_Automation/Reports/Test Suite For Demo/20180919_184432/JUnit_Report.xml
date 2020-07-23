@@ -1,0 +1,2899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite For Demo" time="2152" tests="13" failures="2" errors="0">
+   <testsuite name="Test Suite For Demo" tests="13" failures="2" errors="0" time="2152" timestamp="2018-09-19 18:44:34" hostname="Braseela - DESKTOP-IC62SMV" id="Test Suites/Test Suite For Demo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432"/>
+         <property name="logFiles" value="D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\execution0.log"/>
+         <property name="attachments" value="D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537362908730.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537362946354.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363114667.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363152162.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363312400.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363349896.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363512388.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363515813.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363601011.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363638551.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363801277.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363804719.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363886465.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363923913.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364072666.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364110497.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364215168.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364253528.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364291094.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364472936.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364510419.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364753575.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364757113.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364845883.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364849336.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364921185.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364924615.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537365005064.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537365008509.png, D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537365025786.png"/>
+         <property name="hostName" value="Braseela - DESKTOP-IC62SMV"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="192.168.4.18"/>
+         <property name="sessionId" value="47b8f8b26cb3a25f026fd20e7c27f3c6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/SANT-TC-028_WO_Close_FormLayout" classname="Test Cases/SANT-TC-028_WO_Close_FormLayout" status="PASSED">
+         <system-out><![CDATA[2018-09-19 18:44:35 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-028_WO_Close_FormLayout: Test Cases/SANT-TC-028_WO_Close_FormLayout
+
+2018-09-19 18:44:35 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:44:35 - [TEST_STEP][PASSED] - Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:44:36 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:44:36 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:44:36 - [TEST_STEP][PASSED] - Statement - woDes = woDescription + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 18:44:36 - [TEST_STEP][PASSED] - work_Order.WO_Creation_FormLayout.workOrderCreation: work_Order.WO_Creation_FormLayout.workOrderCreation is PASSED
+
+2018-09-19 18:44:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 18:44:41 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 18:44:48 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 18:44:48 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 18:44:49 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 18:44:49 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 18:44:49 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 18:44:49 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 18:44:49 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:44:54 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:45:01 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 18:45:02 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:45:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:45:09 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: a9b1d7046d8b6a6ac162d8b24357e846)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537362908730.png]]
+
+2018-09-19 18:45:09 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:45:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:45:15 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found
+
+2018-09-19 18:45:46 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537362946354.png]]
+
+2018-09-19 18:45:46 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:45:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:45:49 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideListLayout' is clickable
+
+2018-09-19 18:45:50 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/hideListLayout' is clicked on
+
+2018-09-19 18:45:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:45:53 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:45:53 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:45:53 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 18:45:53 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 18:45:53 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:45:55 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:45:55 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 18:45:55 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:45:56 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:45:56 - [MESSAGE][PASSED] - Keys 'WO Sanity Test_1537362876119' sent to object: 'Object Repository/workOrder/description'
+
+2018-09-19 18:45:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:45:59 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:46:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:46:03 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:46:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:46:06 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:46:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:46:09 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 18:46:11 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:46:12 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:46:12 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/link_Asset_Task_Inventory' is clickable
+
+2018-09-19 18:46:12 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:46:18 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:46:19 - [MESSAGE][PASSED] - Keys 'PMI-023-ahk' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:46:25 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:46:25 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 18:46:25 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:46:25 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:46:25 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:46:26 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:46:27 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:46:33 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:46:34 - [MESSAGE][PASSED] - Keys 'EQU-194-2018' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:46:40 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:46:40 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 18:46:40 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:46:43 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:46:43 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:46:48 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:46:54 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:46:55 - [MESSAGE][PASSED] - Keys 'PRT-144' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:47:01 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:47:01 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/inventoryID' is clicked on
+
+2018-09-19 18:47:01 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:47:04 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:47:05 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:47:06 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:47:06 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:47:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:47:10 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:47:10 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:47:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:47:13 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:47:13 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:47:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 18:47:22 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2018-09-19 18:47:22 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:47:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/WO_ID' is: 'WKO-21197-19/09'
+
+2018-09-19 18:47:22 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 18:47:22 - [MESSAGE][PASSED] - work_Order.WO_Creation_FormLayout.workOrderCreation is PASSED
+
+2018-09-19 18:47:22 - [TEST_STEP][PASSED] - work_Order.WO_Close_FormLayout.closeWorkOrderFormLayout: work_Order.WO_Close_FormLayout.closeWorkOrderFormLayout is PASSED
+
+2018-09-19 18:47:22 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:47:22 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 18:47:23 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 18:47:24 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:47:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/radiobtn' is clicked on
+
+2018-09-19 18:47:24 - [MESSAGE][PASSED] - Alert accepted
+
+2018-09-19 18:47:24 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/save' is present
+
+2018-09-19 18:47:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 18:47:24 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/calendar_icon' is clickable
+
+2018-09-19 18:47:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:47:28 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_icon' is clicked on
+
+2018-09-19 18:47:28 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_tom' is clicked on
+
+2018-09-19 18:47:28 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/Required_OK' is present
+
+2018-09-19 18:47:29 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/Required_OK' is clicked on
+
+2018-09-19 18:47:41 - [MESSAGE][PASSED] - Delayed 12 second(s)
+
+2018-09-19 18:47:41 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrder Status' is present
+
+2018-09-19 18:47:46 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:47:46 - [MESSAGE][PASSED] - work_Order.WO_Close_FormLayout.closeWorkOrderFormLayout is PASSED
+
+2018-09-19 18:47:46 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 18:47:51 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:47:51 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 18:47:51 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:47:51 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 18:47:52 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 18:47:52 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-029_WO_Cancel_FormLayout" classname="Test Cases/SANT-TC-029_WO_Cancel_FormLayout" status="PASSED">
+         <system-out><![CDATA[2018-09-19 18:47:52 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-029_WO_Cancel_FormLayout: Test Cases/SANT-TC-029_WO_Cancel_FormLayout
+
+2018-09-19 18:47:52 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:47:52 - [TEST_STEP][PASSED] - Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:47:52 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:47:52 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:47:52 - [TEST_STEP][PASSED] - Statement - woDes = woDescription + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 18:47:52 - [TEST_STEP][PASSED] - work_Order.WO_Creation_FormLayout.workOrderCreation: work_Order.WO_Creation_FormLayout.workOrderCreation is PASSED
+
+2018-09-19 18:47:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 18:47:56 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 18:48:13 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 18:48:13 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 18:48:13 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 18:48:13 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 18:48:14 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 18:48:14 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 18:48:14 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:48:19 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:48:28 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 18:48:28 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:48:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:48:35 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6a2c1d915fbc599494a6f7b413dd97be)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363114667.png]]
+
+2018-09-19 18:48:35 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:48:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:48:41 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found
+
+2018-09-19 18:49:12 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363152162.png]]
+
+2018-09-19 18:49:12 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:49:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:49:15 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideListLayout' is clickable
+
+2018-09-19 18:49:15 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/hideListLayout' is clicked on
+
+2018-09-19 18:49:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:49:18 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:49:18 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:49:18 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 18:49:19 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 18:49:19 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:49:20 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:49:20 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 18:49:20 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:49:20 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:49:21 - [MESSAGE][PASSED] - Keys 'WO Sanity Test_1537363072673' sent to object: 'Object Repository/workOrder/description'
+
+2018-09-19 18:49:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:49:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:49:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:49:27 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:49:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:49:31 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:49:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:49:34 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:49:34 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 18:49:35 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:49:36 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:49:36 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/link_Asset_Task_Inventory' is clickable
+
+2018-09-19 18:49:37 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:49:43 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:49:43 - [MESSAGE][PASSED] - Keys 'PMI-023-ahk' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:49:49 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:49:50 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 18:49:50 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:49:50 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:49:50 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:49:52 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:49:52 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:49:58 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:49:59 - [MESSAGE][PASSED] - Keys 'EQU-194-2018' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:50:05 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:50:05 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 18:50:05 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:50:08 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:50:09 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:50:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:50:20 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:50:20 - [MESSAGE][PASSED] - Keys 'PRT-144' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:50:26 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:50:26 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/inventoryID' is clicked on
+
+2018-09-19 18:50:26 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:50:29 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:50:30 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:50:32 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:50:32 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:50:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:50:35 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:50:35 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:50:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:50:39 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:50:39 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:50:39 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 18:50:47 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2018-09-19 18:50:47 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:50:47 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/WO_ID' is: 'WKO-21198-19/09'
+
+2018-09-19 18:50:47 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 18:50:47 - [MESSAGE][PASSED] - work_Order.WO_Creation_FormLayout.workOrderCreation is PASSED
+
+2018-09-19 18:50:47 - [TEST_STEP][PASSED] - work_Order.WO_Cancel_FromLayout.cancelWorkOrderFormLayout: work_Order.WO_Cancel_FromLayout.cancelWorkOrderFormLayout is PASSED
+
+2018-09-19 18:50:47 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:50:47 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 18:50:48 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 18:50:49 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:50:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/radiobtn' is clicked on
+
+2018-09-19 18:50:49 - [MESSAGE][PASSED] - Alert accepted
+
+2018-09-19 18:50:49 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/infoLink_Search' is present
+
+2018-09-19 18:50:50 - [MESSAGE][PASSED] - Text 'Sanity Testing' is set on object 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:50:50 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/Reason_Save' is clicked on
+
+2018-09-19 18:50:50 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:50:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:50:54 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_icon' is clicked on
+
+2018-09-19 18:50:54 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_tom' is clicked on
+
+2018-09-19 18:50:54 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/Required_OK' is present
+
+2018-09-19 18:50:54 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/Required_OK' is clicked on
+
+2018-09-19 18:51:04 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2018-09-19 18:51:04 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:51:04 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrder Status' is present
+
+2018-09-19 18:51:09 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:51:09 - [MESSAGE][PASSED] - work_Order.WO_Cancel_FromLayout.cancelWorkOrderFormLayout is PASSED
+
+2018-09-19 18:51:09 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 18:51:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:51:14 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 18:51:15 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:51:15 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 18:51:15 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 18:51:15 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-030_WO_Hold_FormLayout" classname="Test Cases/SANT-TC-030_WO_Hold_FormLayout" status="PASSED">
+         <system-out><![CDATA[2018-09-19 18:51:15 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-030_WO_Hold_FormLayout: Test Cases/SANT-TC-030_WO_Hold_FormLayout
+
+2018-09-19 18:51:16 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:51:16 - [TEST_STEP][PASSED] - Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:51:16 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:51:16 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:51:16 - [TEST_STEP][PASSED] - Statement - woDes = woDescription + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 18:51:16 - [TEST_STEP][PASSED] - work_Order.WO_Creation_FormLayout.workOrderCreation: work_Order.WO_Creation_FormLayout.workOrderCreation is PASSED
+
+2018-09-19 18:51:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 18:51:19 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 18:51:27 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 18:51:27 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 18:51:27 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 18:51:28 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 18:51:28 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 18:51:28 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 18:51:28 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:51:33 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:51:45 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 18:51:45 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:51:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:51:52 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 7949c8de6c77c5f86b1213a31d65e3fa)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363312400.png]]
+
+2018-09-19 18:51:52 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:51:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:51:58 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found
+
+2018-09-19 18:52:30 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363349896.png]]
+
+2018-09-19 18:52:30 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:52:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:52:33 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideListLayout' is clickable
+
+2018-09-19 18:52:33 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/hideListLayout' is clicked on
+
+2018-09-19 18:52:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:52:36 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:52:36 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:52:36 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 18:52:36 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 18:52:36 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:52:38 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:52:38 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 18:52:38 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:52:38 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:52:39 - [MESSAGE][PASSED] - Keys 'WO Sanity Test_1537363276088' sent to object: 'Object Repository/workOrder/description'
+
+2018-09-19 18:52:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:52:42 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:52:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:52:45 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:52:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:52:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:52:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:52:52 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:52:52 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 18:52:53 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:52:54 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:52:54 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/link_Asset_Task_Inventory' is clickable
+
+2018-09-19 18:52:55 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:53:01 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:53:01 - [MESSAGE][PASSED] - Keys 'PMI-023-ahk' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:53:07 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:53:07 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 18:53:08 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:53:08 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:53:08 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:53:11 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:53:12 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:53:18 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:53:18 - [MESSAGE][PASSED] - Keys 'EQU-194-2018' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:53:24 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:53:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 18:53:25 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:53:26 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:53:27 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 18:53:32 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:53:38 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:53:38 - [MESSAGE][PASSED] - Keys 'PRT-144' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:53:44 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:53:44 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/inventoryID' is clicked on
+
+2018-09-19 18:53:45 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 18:53:46 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:53:47 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:53:48 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:53:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:53:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:53:52 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:53:52 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:53:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:53:55 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:53:55 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 18:53:56 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 18:54:04 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2018-09-19 18:54:04 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:54:04 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/WO_ID' is: 'WKO-21199-19/09'
+
+2018-09-19 18:54:04 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 18:54:04 - [MESSAGE][PASSED] - work_Order.WO_Creation_FormLayout.workOrderCreation is PASSED
+
+2018-09-19 18:54:04 - [TEST_STEP][PASSED] - work_Order.WO_Hold_FormLayout.holdWorkOrderFormLayout: work_Order.WO_Hold_FormLayout.holdWorkOrderFormLayout is PASSED
+
+2018-09-19 18:54:04 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:54:04 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 18:54:04 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 18:54:05 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:54:05 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/radiobtn' is clicked on
+
+2018-09-19 18:54:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:54:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:54:12 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/HoldReason' is clicked on
+
+2018-09-19 18:54:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:54:15 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:54:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:54:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/holduntil_calendar' is clicked on
+
+2018-09-19 18:54:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_tom' is clicked on
+
+2018-09-19 18:54:19 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/Reason_Save' is clicked on
+
+2018-09-19 18:54:19 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:54:19 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrder Status' is present
+
+2018-09-19 18:54:24 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:54:24 - [MESSAGE][PASSED] - work_Order.WO_Hold_FormLayout.holdWorkOrderFormLayout is PASSED
+
+2018-09-19 18:54:24 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 18:54:29 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:54:29 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 18:54:29 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:54:29 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 18:54:30 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 18:54:30 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-032_WO_Close_ListLayout" classname="Test Cases/SANT-TC-032_WO_Close_ListLayout" status="PASSED">
+         <system-out><![CDATA[2018-09-19 18:54:30 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-032_WO_Close_ListLayout: Test Cases/SANT-TC-032_WO_Close_ListLayout
+
+2018-09-19 18:54:30 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:54:30 - [TEST_STEP][PASSED] - Statement - WO_name = woDescription + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 18:54:30 - [TEST_STEP][PASSED] - work_Order.WO_Creation_ListLayout.workOrderCreationList: work_Order.WO_Creation_ListLayout.workOrderCreationList is PASSED
+
+2018-09-19 18:54:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 18:54:34 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 18:54:42 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 18:54:42 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 18:54:42 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 18:54:42 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 18:54:43 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 18:54:43 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 18:54:43 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:54:48 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:55:00 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 18:55:00 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:55:00 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:09 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:55:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:55:12 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 4ec17a64690ca4f391ec889ed44f1476)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363512388.png]]
+
+2018-09-19 18:55:12 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:55:15 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideMenu' is present
+
+2018-09-19 18:55:16 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/hideMenu' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 4ec17a64690ca4f391ec889ed44f1476)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363515813.png]]
+
+2018-09-19 18:55:16 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:55:19 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/expandAndMinimize' is present
+
+2018-09-19 18:55:24 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:55:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/expandAndMinimize' is clicked on
+
+2018-09-19 18:55:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:55:27 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:27 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:55:27 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addNew_ListLayout' is clickable
+
+2018-09-19 18:55:27 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addNew_ListLayout' is clicked on
+
+2018-09-19 18:55:27 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:32 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:55:33 - [MESSAGE][PASSED] - Keys 'WO Sanity Test_1537363470717' sent to object: 'Object Repository/workOrder/wo_Description_List'
+
+2018-09-19 18:55:33 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/Save_ListLayout' is clickable
+
+2018-09-19 18:55:34 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/Save_ListLayout' is clicked on
+
+2018-09-19 18:55:34 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:34 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/created_WO_List' is present
+
+2018-09-19 18:55:34 - [MESSAGE][PASSED] - work_Order.WO_Creation_ListLayout.workOrderCreationList is PASSED
+
+2018-09-19 18:55:34 - [TEST_STEP][PASSED] - work_Order.WO_Close_ListLayout.closeWorkOrderListLayout: work_Order.WO_Close_ListLayout.closeWorkOrderListLayout is PASSED
+
+2018-09-19 18:55:34 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:34 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/CloseWO' is clickable
+
+2018-09-19 18:55:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:55:37 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/CloseWO' is clicked on
+
+2018-09-19 18:55:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:55:41 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/List_Close_Yes' is clicked on
+
+2018-09-19 18:55:41 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/calendar_icon' is clickable
+
+2018-09-19 18:55:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:55:44 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_icon' is clicked on
+
+2018-09-19 18:55:44 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_tom' is clicked on
+
+2018-09-19 18:55:45 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/Required_OK' is present
+
+2018-09-19 18:55:45 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/Required_OK' is clicked on
+
+2018-09-19 18:55:45 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:51 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:55:52 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/expandAndMinimize' is clicked on
+
+2018-09-19 18:55:52 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:55:53 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:55:53 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrder Status' is present
+
+2018-09-19 18:55:58 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:55:58 - [MESSAGE][PASSED] - work_Order.WO_Close_ListLayout.closeWorkOrderListLayout is PASSED
+
+2018-09-19 18:55:58 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 18:56:03 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:56:03 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 18:56:04 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:56:04 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 18:56:04 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 18:56:04 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-035_MR_To_WO_FormLayout" classname="Test Cases/SANT-TC-035_MR_To_WO_FormLayout" status="PASSED">
+         <system-out><![CDATA[2018-09-19 18:56:04 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-035_MR_To_WO_FormLayout: Test Cases/SANT-TC-035_MR_To_WO_FormLayout
+
+2018-09-19 18:56:05 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:56:05 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:56:05 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:56:05 - [TEST_STEP][PASSED] - Statement - woDes = woDescription + "_" + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 18:56:05 - [TEST_STEP][PASSED] - maintenance_Records.MR_Creation_FormLayout.MRCreation: maintenance_Records.MR_Creation_FormLayout.MRCreation is PASSED
+
+2018-09-19 18:56:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 18:56:08 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 18:56:15 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 18:56:15 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 18:56:16 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 18:56:16 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 18:56:16 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 18:56:16 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 18:56:16 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:56:33 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 18:56:34 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:56:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:56:41 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: c3af11a2a2bfd4ff927b10d49833fb6b)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363601011.png]]
+
+2018-09-19 18:56:41 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:56:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:56:47 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found
+
+2018-09-19 18:57:18 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363638551.png]]
+
+2018-09-19 18:57:18 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:57:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:57:21 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideListLayout' is clickable
+
+2018-09-19 18:57:22 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/hideListLayout' is clicked on
+
+2018-09-19 18:57:25 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:57:25 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:57:25 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:57:25 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 18:57:25 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 18:57:25 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:57:26 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:57:26 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 18:57:26 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:57:26 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:57:27 - [MESSAGE][PASSED] - Keys 'MR Sanity Test__1537363565220' sent to object: 'Object Repository/workOrder/description'
+
+2018-09-19 18:57:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:57:31 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:57:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:57:34 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:57:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:57:37 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:57:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:57:40 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:57:55 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+2018-09-19 18:57:56 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/specific_asset_drop' is clicked on
+
+2018-09-19 18:57:57 - [MESSAGE][PASSED] - Text 'EQU-194-2018 (Test Sanity Asset)' is set on object 'Object Repository/maintenanceRecords/specific_asset_drop'
+
+2018-09-19 18:58:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:00 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:58:05 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:58:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:08 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:58:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:12 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:58:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:58:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:21 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:58:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:28 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 18:58:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 18:58:31 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 18:58:31 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 18:58:32 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:58:33 - [MESSAGE][PASSED] - Object 'Object Repository/maintenanceRecords/link_Inventory' is clickable
+
+2018-09-19 18:58:34 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/link_Inventory' is clicked on
+
+2018-09-19 18:58:34 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:58:40 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:58:40 - [MESSAGE][PASSED] - Keys 'PRT-144' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 18:58:46 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 18:58:46 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 18:58:47 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/Link_Inv' is clicked on
+
+2018-09-19 18:58:47 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/save' is clickable
+
+2018-09-19 18:58:49 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:58:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 18:58:55 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:58:55 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_OK' is clicked on
+
+2018-09-19 18:59:00 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:59:00 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 18:59:00 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/WO_ID' is: 'WRQ-01006'
+
+2018-09-19 18:59:00 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 18:59:00 - [MESSAGE][PASSED] - maintenance_Records.MR_Creation_FormLayout.MRCreation is PASSED
+
+2018-09-19 18:59:00 - [TEST_STEP][PASSED] - maintenance_Records.MR_ConverttoWO.MRtoWO: maintenance_Records.MR_ConverttoWO.MRtoWO is PASSED
+
+2018-09-19 18:59:00 - [MESSAGE][PASSED] - Object 'Object Repository/maintenanceRecords/converttoWO' is clickable
+
+2018-09-19 18:59:00 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:59:01 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/converttoWO' is clicked on
+
+2018-09-19 18:59:01 - [MESSAGE][PASSED] - Object 'Object Repository/maintenanceRecords/confirmYes' is present
+
+2018-09-19 18:59:06 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:59:06 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/confirmYes' is clicked on
+
+2018-09-19 18:59:14 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2018-09-19 18:59:14 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/confirmYes' is clicked on
+
+2018-09-19 18:59:14 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:59:19 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 18:59:19 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 18:59:19 - [MESSAGE][PASSED] - maintenance_Records.MR_ConverttoWO.MRtoWO is PASSED
+
+2018-09-19 18:59:19 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 18:59:24 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 18:59:24 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 18:59:25 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:59:25 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 18:59:25 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 18:59:25 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-035_MR_To_WO_ListLayout" classname="Test Cases/SANT-TC-035_MR_To_WO_ListLayout" status="PASSED">
+         <system-out><![CDATA[2018-09-19 18:59:25 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-035_MR_To_WO_ListLayout: Test Cases/SANT-TC-035_MR_To_WO_ListLayout
+
+2018-09-19 18:59:26 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:59:26 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:59:26 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 18:59:26 - [TEST_STEP][PASSED] - Statement - woDes = woDescription + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 18:59:26 - [TEST_STEP][PASSED] - maintenance_Records.MR_Creation_ListLayout.MR_Creation_List: maintenance_Records.MR_Creation_ListLayout.MR_Creation_List is PASSED
+
+2018-09-19 18:59:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 18:59:30 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 18:59:37 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 18:59:37 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 18:59:37 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 18:59:37 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 18:59:38 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 18:59:38 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 18:59:38 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 18:59:54 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 18:59:54 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 18:59:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:00:01 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: bced1ac5e6bf081c75dfbc9d4eccb1d3)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363801277.png]]
+
+2018-09-19 19:00:01 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:00:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:00:04 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideMenu' is present
+
+2018-09-19 19:00:05 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/hideMenu' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: bced1ac5e6bf081c75dfbc9d4eccb1d3)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363804719.png]]
+
+2018-09-19 19:00:05 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:00:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:00:08 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/expandAndMinimize' is present
+
+2018-09-19 19:00:13 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:00:13 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/expandAndMinimize' is clicked on
+
+2018-09-19 19:00:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:00:16 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:00:16 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:00:17 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addNew_ListLayout' is clickable
+
+2018-09-19 19:00:17 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addNew_ListLayout' is clicked on
+
+2018-09-19 19:00:17 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:00:23 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:00:23 - [MESSAGE][PASSED] - Keys 'MR Sanity Test_1537363766302' sent to object: 'Object Repository/workOrder/wo_Description_List'
+
+2018-09-19 19:00:23 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/Save_ListLayout' is clickable
+
+2018-09-19 19:00:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/Save_ListLayout' is clicked on
+
+2018-09-19 19:00:24 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:00:29 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:00:29 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/calendar_OK' is clickable
+
+2018-09-19 19:00:29 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_OK' is clicked on
+
+2018-09-19 19:00:29 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:00:29 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/created_WO_List' is present
+
+2018-09-19 19:00:29 - [MESSAGE][PASSED] - maintenance_Records.MR_Creation_ListLayout.MR_Creation_List is PASSED
+
+2018-09-19 19:00:29 - [TEST_STEP][PASSED] - maintenance_Records.MR_ConverttoWO_ListLayout.convertWKOFromListLayout: maintenance_Records.MR_ConverttoWO_ListLayout.convertWKOFromListLayout is PASSED
+
+2018-09-19 19:00:29 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:00:34 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:00:35 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/covertToWKO' is clicked on
+
+2018-09-19 19:00:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:00:38 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/ConfirmYes' is clicked on
+
+2018-09-19 19:00:43 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:00:43 - [MESSAGE][PASSED] - Object: 'Object Repository/maintenanceRecords/ConfirmYes' is clicked on
+
+2018-09-19 19:00:43 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:00:43 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/created_WO_List' is present
+
+2018-09-19 19:00:43 - [MESSAGE][PASSED] - maintenance_Records.MR_ConverttoWO_ListLayout.convertWKOFromListLayout is PASSED
+
+2018-09-19 19:00:43 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 19:00:48 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:00:48 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 19:00:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:00:49 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 19:00:50 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 19:00:50 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-041_SMR_Floating Schedule" classname="Test Cases/SANT-TC-041_SMR_Floating Schedule" status="PASSED">
+         <system-out><![CDATA[2018-09-19 19:00:50 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-041_SMR_Floating Schedule: Test Cases/SANT-TC-041_SMR_Floating Schedule
+
+2018-09-19 19:00:50 - [TEST_STEP][PASSED] - Statement - SMRDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:00:50 - [TEST_STEP][PASSED] - Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:00:50 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:00:50 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(4, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:00:50 - [TEST_STEP][PASSED] - Statement - SMRDes = SMRDescription + "_" + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 19:00:50 - [TEST_STEP][PASSED] - scheduled_Maintenance_Records.SMR_Creation.SMRCreationFloating: scheduled_Maintenance_Records.SMR_Creation.SMRCreationFloating is PASSED
+
+2018-09-19 19:00:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:00:54 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:01:01 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:01:01 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:01:01 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:01:02 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:01:02 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:01:02 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:01:02 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:01:07 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:01:18 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/Scheduled Maintenance' is clicked on
+
+2018-09-19 19:01:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:01:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:01:26 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 62307d7bc75b84ffecb00be005716c09)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363886465.png]]
+
+2018-09-19 19:01:26 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:01:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:01:33 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found
+
+2018-09-19 19:02:04 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537363923913.png]]
+
+2018-09-19 19:02:04 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:02:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:02:07 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideListLayout' is clickable
+
+2018-09-19 19:02:07 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/hideListLayout' is clicked on
+
+2018-09-19 19:02:10 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:02:10 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:02:10 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:02:10 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 19:02:10 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 19:02:10 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:02:12 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:02:13 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:02:14 - [MESSAGE][PASSED] - Keys 'SMR Sanity Test__1537363850357' sent to object: 'Object Repository/SMR/description'
+
+2018-09-19 19:02:14 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:02:14 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/link_Asset_Task_Inventory' is clickable
+
+2018-09-19 19:02:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:02:20 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:02:21 - [MESSAGE][PASSED] - Keys 'PMI-023-ahk' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:02:27 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:02:27 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 19:02:27 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:02:27 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:02:29 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:02:30 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:02:36 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:02:36 - [MESSAGE][PASSED] - Keys 'EQU-194-2018' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:02:42 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:02:43 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 19:02:43 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:02:43 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:02:44 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:02:45 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:02:51 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:02:51 - [MESSAGE][PASSED] - Keys 'PRT-144' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:02:57 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:02:57 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/inventoryID' is clicked on
+
+2018-09-19 19:02:57 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:02:57 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:03:00 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:03:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:04 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:03:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:08 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:03:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:11 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:03:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:03:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:17 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:03:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:21 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:03:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:03:24 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/floatcalendar' is clicked on
+
+2018-09-19 19:03:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:28 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_tom' is clicked on
+
+2018-09-19 19:03:28 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/SMR/recurrance_pattern'
+
+2018-09-19 19:03:28 - [MESSAGE][PASSED] - Keys '2' sent to object: 'Object Repository/SMR/recurrance_pattern'
+
+2018-09-19 19:03:28 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:03:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:32 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:03:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:36 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:03:36 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:03:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:03:39 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:03:39 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:03:39 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 19:03:49 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2018-09-19 19:03:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:03:50 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:03:50 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/WO_ID' is: 'SMR-556'
+
+2018-09-19 19:03:50 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 19:03:50 - [MESSAGE][PASSED] - scheduled_Maintenance_Records.SMR_Creation.SMRCreationFloating is PASSED
+
+2018-09-19 19:03:50 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 19:03:55 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:03:55 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 19:03:55 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:03:55 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 19:03:56 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 19:03:56 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-042_SMR_Fixed Schedule" classname="Test Cases/SANT-TC-042_SMR_Fixed Schedule" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/workOrder/workOrderTabs' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element &lt;div data-options=&quot;dxTemplate: {name : 'title'  }&quot; title=&quot;&quot; ng-show=&quot;item.Text&quot; class=&quot;dx-template-wrapper ng-binding ng-scope dx-item-content dx-tab-content&quot;>...&lt;/div> is not clickable at point (150, 136). Other element would receive the click: &lt;html lang=&quot;en&quot; class=&quot;ng-scope&quot;>...&lt;/html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)"/>
+         <system-out><![CDATA[2018-09-19 19:03:56 - [TEST_CASE][FAILED] - Test Cases/SANT-TC-042_SMR_Fixed Schedule: Test Cases/SANT-TC-042_SMR_Fixed Schedule FAILED because (of) Unable to click on object 'Object Repository/workOrder/workOrderTabs' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div data-options="dxTemplate: {name : 'title'  }" title="" ng-show="item.Text" class="dx-template-wrapper ng-binding ng-scope dx-item-content dx-tab-content">...</div> is not clickable at point (150, 136). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)
+
+2018-09-19 19:03:56 - [TEST_STEP][PASSED] - Statement - SMRDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:03:56 - [TEST_STEP][PASSED] - Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:03:57 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:03:57 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(4, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:03:57 - [TEST_STEP][PASSED] - Statement - SMRDes = SMRDescription + "_" + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 19:03:57 - [TEST_STEP][FAILED] - scheduled_Maintenance_Records.SMR_Creation.SMRCreationFixed: Unable to click on object 'Object Repository/workOrder/workOrderTabs' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div data-options="dxTemplate: {name : 'title'  }" title="" ng-show="item.Text" class="dx-template-wrapper ng-binding ng-scope dx-item-content dx-tab-content">...</div> is not clickable at point (150, 136). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)
+
+2018-09-19 19:03:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:04:01 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:04:08 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:04:08 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:04:09 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:04:09 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:04:09 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:04:09 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:04:09 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:04:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:04:25 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/Scheduled Maintenance' is clicked on
+
+2018-09-19 19:04:25 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:04:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:04:33 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364072666.png]]
+
+2018-09-19 19:04:33 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:04:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:04:39 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found
+
+2018-09-19 19:05:10 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364110497.png]]
+
+2018-09-19 19:05:10 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:05:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:05:14 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideListLayout' is clickable
+
+2018-09-19 19:05:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/hideListLayout' is clicked on
+
+2018-09-19 19:05:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:05:17 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:05:17 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:05:17 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 19:05:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 19:05:18 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:05:21 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:05:22 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:05:23 - [MESSAGE][PASSED] - Keys 'SMR Sanity Test__1537364037261' sent to object: 'Object Repository/SMR/description'
+
+2018-09-19 19:05:23 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:05:23 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/link_Asset_Task_Inventory' is clickable
+
+2018-09-19 19:05:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:05:30 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:05:30 - [MESSAGE][PASSED] - Keys 'PMI-023-ahk' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:05:36 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:05:37 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 19:05:37 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:05:37 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:05:38 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:05:38 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:05:44 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:05:45 - [MESSAGE][PASSED] - Keys 'EQU-194-2018' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:05:51 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 19:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:05:51 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:05:54 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:05:54 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:06:00 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:06:01 - [MESSAGE][PASSED] - Keys 'PRT-144' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:06:07 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:06:07 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/inventoryID' is clicked on
+
+2018-09-19 19:06:07 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:06:07 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:06:09 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:06:10 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:06:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:06:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:17 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:06:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:20 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:06:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:06:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:27 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:06:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:30 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:06:31 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/radio_fixedschtype' is clicked on
+
+2018-09-19 19:06:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:34 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/fixedcalendar' is clicked on
+
+2018-09-19 19:06:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:37 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_tom' is clicked on
+
+2018-09-19 19:06:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:41 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/SMR/recurrance_pattern'
+
+2018-09-19 19:06:41 - [MESSAGE][PASSED] - Keys '2' sent to object: 'Object Repository/SMR/recurrance_pattern'
+
+2018-09-19 19:06:41 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:06:42 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:06:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:46 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:06:46 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:06:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:06:49 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:06:49 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:06:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 19:06:54 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:06:55 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/workOrderTabs' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div data-options="dxTemplate: {name : 'title'  }" title="" ng-show="item.Text" class="dx-template-wrapper ng-binding ng-scope dx-item-content dx-tab-content">...</div> is not clickable at point (150, 136). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364215168.png]]
+
+2018-09-19 19:06:55 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/workOrderTabs' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div data-options="dxTemplate: {name : 'title'  }" title="" ng-show="item.Text" class="dx-template-wrapper ng-binding ng-scope dx-item-content dx-tab-content">...</div> is not clickable at point (150, 136). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)]]></system-out>
+         <system-err><![CDATA[2018-09-19 19:03:56 - [TEST_CASE][FAILED] - Test Cases/SANT-TC-042_SMR_Fixed Schedule: Test Cases/SANT-TC-042_SMR_Fixed Schedule FAILED because (of) Unable to click on object 'Object Repository/workOrder/workOrderTabs' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div data-options="dxTemplate: {name : 'title'  }" title="" ng-show="item.Text" class="dx-template-wrapper ng-binding ng-scope dx-item-content dx-tab-content">...</div> is not clickable at point (150, 136). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-043_SMR_Meter Based Schedule" classname="Test Cases/SANT-TC-043_SMR_Meter Based Schedule" status="PASSED">
+         <system-out><![CDATA[2018-09-19 19:06:55 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-043_SMR_Meter Based Schedule: Test Cases/SANT-TC-043_SMR_Meter Based Schedule
+
+2018-09-19 19:06:55 - [TEST_STEP][PASSED] - Statement - SMRDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:06:55 - [TEST_STEP][PASSED] - Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:06:55 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:06:55 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(4, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:06:55 - [TEST_STEP][PASSED] - Statement - SMRDes = SMRDescription + "_" + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 19:06:55 - [TEST_STEP][PASSED] - scheduled_Maintenance_Records.SMR_Creation.SMRCreationMeterBased: scheduled_Maintenance_Records.SMR_Creation.SMRCreationMeterBased is PASSED
+
+2018-09-19 19:06:55 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-19 19:06:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:07:00 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:07:08 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:07:08 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:07:09 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:07:09 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:07:09 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:07:09 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:07:09 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:07:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:07:26 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/Scheduled Maintenance' is clicked on
+
+2018-09-19 19:07:26 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:07:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:07:33 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: fea33f950b31d58e808631a641e90eac)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364253528.png]]
+
+2018-09-19 19:07:33 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:07:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:07:40 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found
+
+2018-09-19 19:08:11 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364291094.png]]
+
+2018-09-19 19:08:11 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:08:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:08:14 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideListLayout' is clickable
+
+2018-09-19 19:08:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/hideListLayout' is clicked on
+
+2018-09-19 19:08:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:08:17 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:08:17 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:08:18 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 19:08:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 19:08:18 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:08:20 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:08:20 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:08:21 - [MESSAGE][PASSED] - Keys 'SMR Sanity Test__1537364215770' sent to object: 'Object Repository/SMR/description'
+
+2018-09-19 19:08:21 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:08:21 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/link_Asset_Task_Inventory' is clickable
+
+2018-09-19 19:08:21 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:08:27 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:08:28 - [MESSAGE][PASSED] - Keys 'PMI-023-ahk' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:08:34 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:08:34 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 19:08:34 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:08:34 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:08:35 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:08:36 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:08:42 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:08:42 - [MESSAGE][PASSED] - Keys 'EQU-194-2018' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:08:48 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:08:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 19:08:49 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:08:49 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:08:52 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:08:52 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:08:58 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:08:59 - [MESSAGE][PASSED] - Keys 'PRT-144' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:09:05 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:09:05 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/inventoryID' is clicked on
+
+2018-09-19 19:09:05 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:09:05 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:09:07 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:09:08 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:09:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:11 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:09:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:09:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:09:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:21 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:09:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:25 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:09:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:28 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:09:28 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/timebased' is clicked on
+
+2018-09-19 19:09:28 - [MESSAGE][PASSED] - Object 'Object Repository/SMR/timebasedcheck' is clickable
+
+2018-09-19 19:09:28 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/timebasedcheck' is clicked on
+
+2018-09-19 19:09:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:32 - [MESSAGE][PASSED] - Object 'Object Repository/SMR/meterbased' is clickable
+
+2018-09-19 19:09:32 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/meterbased' is clicked on
+
+2018-09-19 19:09:32 - [MESSAGE][PASSED] - Object 'Object Repository/SMR/meterbasedcheck' is clickable
+
+2018-09-19 19:09:32 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/meterbasedcheck' is clicked on
+
+2018-09-19 19:09:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:35 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/assettotrigger' is clicked on
+
+2018-09-19 19:09:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:39 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/assetselect' is clicked on
+
+2018-09-19 19:09:39 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:09:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:42 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/assettotrigger' is clicked on
+
+2018-09-19 19:09:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:45 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/meterselect' is clicked on
+
+2018-09-19 19:09:47 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:09:50 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:50 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/SMR/unitsbtw'
+
+2018-09-19 19:09:50 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/SMR/unitsbtw'
+
+2018-09-19 19:09:50 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:09:52 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:09:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:55 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:09:55 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:09:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:09:59 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:09:59 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:09:59 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 19:10:29 - [MESSAGE][PASSED] - Delayed 30 second(s)
+
+2018-09-19 19:10:29 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:10:29 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:10:29 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/WO_ID' is: 'SMR-558'
+
+2018-09-19 19:10:29 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 19:10:29 - [MESSAGE][PASSED] - scheduled_Maintenance_Records.SMR_Creation.SMRCreationMeterBased is PASSED
+
+2018-09-19 19:10:29 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 19:10:34 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:10:35 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 19:10:35 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:10:35 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 19:10:36 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 19:10:36 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-044_Reports_Form view_Current Record_New WO" classname="Test Cases/SANT-TC-044_Reports_Form view_Current Record_New WO" status="PASSED">
+         <system-out><![CDATA[2018-09-19 19:10:36 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-044_Reports_Form view_Current Record_New WO: Test Cases/SANT-TC-044_Reports_Form view_Current Record_New WO
+
+2018-09-19 19:10:36 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:10:36 - [TEST_STEP][PASSED] - Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:10:36 - [TEST_STEP][PASSED] - Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:10:36 - [TEST_STEP][PASSED] - Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:10:36 - [TEST_STEP][PASSED] - Statement - WODes = woDescription + "_" + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 19:10:36 - [TEST_STEP][PASSED] - work_Order.WO_Creation_FormLayout.workOrderCreation: work_Order.WO_Creation_FormLayout.workOrderCreation is PASSED
+
+2018-09-19 19:10:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:10:39 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:10:47 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:10:47 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:10:47 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:10:47 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:10:47 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:10:48 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:10:48 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:10:53 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:11:05 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 19:11:06 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:11:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:11:13 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 71b34078820eb1731e307f2f82857031)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364472936.png]]
+
+2018-09-19 19:11:13 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:11:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:11:19 - [MESSAGE][WARNING] - Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found
+
+2018-09-19 19:11:50 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/workOrder/expandAndMinimize' located by 'By.xpath: //a[@title='Show']' not found)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364510419.png]]
+
+2018-09-19 19:11:50 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:11:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:11:53 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideListLayout' is clickable
+
+2018-09-19 19:11:54 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/hideListLayout' is clicked on
+
+2018-09-19 19:11:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:11:57 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:11:57 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:11:57 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/addAndEdit' is clickable
+
+2018-09-19 19:11:57 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/addAndEdit' is clicked on
+
+2018-09-19 19:11:57 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:11:58 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:11:58 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 19:11:59 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:11:59 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:11:59 - [MESSAGE][PASSED] - Keys 'WO Sanity Test__1537364436370' sent to object: 'Object Repository/workOrder/description'
+
+2018-09-19 19:12:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:12:03 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:12:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:12:06 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:12:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:12:09 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/woTypeAndGroup' is clicked on
+
+2018-09-19 19:12:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:12:13 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/groupAndType' is clicked on
+
+2018-09-19 19:12:13 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/workOrderTabs' is clickable
+
+2018-09-19 19:12:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:12:15 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:12:15 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/link_Asset_Task_Inventory' is clickable
+
+2018-09-19 19:12:16 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:12:22 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:12:22 - [MESSAGE][PASSED] - Keys 'PMI-023-ahk' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:12:28 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:12:29 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 19:12:29 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:12:29 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:12:29 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:12:31 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:12:32 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:12:38 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:12:39 - [MESSAGE][PASSED] - Keys 'EQU-194-2018' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:12:45 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:12:45 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/taskAndAssetID' is clicked on
+
+2018-09-19 19:12:46 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:12:47 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:12:48 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/link_Asset_Task_Inventory' is clicked on
+
+2018-09-19 19:12:53 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:12:59 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:12:59 - [MESSAGE][PASSED] - Keys 'PRT-144' sent to object: 'Object Repository/workOrder/infoLink_Search'
+
+2018-09-19 19:13:05 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-09-19 19:13:05 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/inventoryID' is clicked on
+
+2018-09-19 19:13:06 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/replace' is clicked on
+
+2018-09-19 19:13:07 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:13:09 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:13:10 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:13:10 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:13:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:13:13 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:13:14 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:13:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:13:17 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:13:17 - [MESSAGE][PASSED] - Keys '15' sent to object: 'Object Repository/workOrder/estAndOtherCost'
+
+2018-09-19 19:13:17 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/save' is clicked on
+
+2018-09-19 19:13:25 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2018-09-19 19:13:25 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrderTabs' is clicked on
+
+2018-09-19 19:13:25 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/WO_ID' is: 'WKO-21203-19/09'
+
+2018-09-19 19:13:26 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 19:13:26 - [MESSAGE][PASSED] - work_Order.WO_Creation_FormLayout.workOrderCreation is PASSED
+
+2018-09-19 19:13:26 - [TEST_STEP][PASSED] - reports.Form_View.formView_CurrentRecord_New: reports.Form_View.formView_CurrentRecord_New is PASSED
+
+2018-09-19 19:13:26 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 19:13:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/print_btn' is clicked on
+
+2018-09-19 19:13:26 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:13:26 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:13:26 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2018-09-19 19:13:32 - [MESSAGE][PASSED] - Object 'Object Repository/Reports/settings_icon' is clickable
+
+2018-09-19 19:13:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/settings_icon' is clicked on
+
+2018-09-19 19:13:42 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:13:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/report_radio' is clicked on
+
+2018-09-19 19:13:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/wo_form' is clicked on
+
+2018-09-19 19:13:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/report_radio' is clicked on
+
+2018-09-19 19:13:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/ok_btn' is clicked on
+
+2018-09-19 19:13:48 - [MESSAGE][WARNING] - This page doesn't use Angular.
+
+2018-09-19 19:13:48 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:13:52 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-09-19 19:13:53 - [MESSAGE][PASSED] - Object 'Object Repository/Reports/wo_name' is present
+
+2018-09-19 19:13:53 - [MESSAGE][PASSED] - Window with index 1 is closed
+
+2018-09-19 19:13:53 - [MESSAGE][PASSED] - Switched to window with index: '0'
+
+2018-09-19 19:13:53 - [MESSAGE][PASSED] - reports.Form_View.formView_CurrentRecord_New is PASSED
+
+2018-09-19 19:13:53 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 19:13:58 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:13:58 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 19:13:58 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:13:58 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 19:13:59 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 19:13:59 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-044_Reports_Form view_Current Record_Old WO" classname="Test Cases/SANT-TC-044_Reports_Form view_Current Record_Old WO" status="PASSED">
+         <system-out><![CDATA[2018-09-19 19:13:59 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-044_Reports_Form view_Current Record_Old WO: Test Cases/SANT-TC-044_Reports_Form view_Current Record_Old WO
+
+2018-09-19 19:13:59 - [TEST_STEP][PASSED] - reports.Form_View.formView_CurrentRecord_Old: reports.Form_View.formView_CurrentRecord_Old is PASSED
+
+2018-09-19 19:14:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:14:03 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:14:10 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:14:10 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:14:10 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:14:10 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:14:10 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:14:11 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:14:11 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:14:16 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:14:29 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 19:14:29 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:14:35 - [MESSAGE][PASSED] - Text of object 'Object Repository/Reports/desc_wo' is: 'WO Sanity Test__1537364436370'
+
+2018-09-19 19:14:35 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/WO_description' is present
+
+2018-09-19 19:14:35 - [MESSAGE][PASSED] - Object 'Object Repository/Reports/print_btn' is present
+
+2018-09-19 19:14:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/print_btn' is clicked on
+
+2018-09-19 19:14:36 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:14:36 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:14:36 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2018-09-19 19:14:43 - [MESSAGE][PASSED] - Object 'Object Repository/Reports/settings_icon' is clickable
+
+2018-09-19 19:14:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/settings_icon' is clicked on
+
+2018-09-19 19:14:53 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:14:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/report_radio' is clicked on
+
+2018-09-19 19:14:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/wo_form' is clicked on
+
+2018-09-19 19:14:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/report_radio' is clicked on
+
+2018-09-19 19:15:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Reports/ok_btn' is clicked on
+
+2018-09-19 19:15:00 - [MESSAGE][WARNING] - This page doesn't use Angular.
+
+2018-09-19 19:15:00 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:15:05 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:15:07 - [MESSAGE][PASSED] - Object 'Object Repository/Reports/wo_name' is present
+
+2018-09-19 19:15:07 - [MESSAGE][PASSED] - Window with index 1 is closed
+
+2018-09-19 19:15:07 - [MESSAGE][PASSED] - Switched to window with index: '0'
+
+2018-09-19 19:15:07 - [MESSAGE][PASSED] - reports.Form_View.formView_CurrentRecord_Old is PASSED
+
+2018-09-19 19:15:07 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 19:15:12 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:15:13 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 19:15:13 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:15:13 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 19:15:14 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 19:15:14 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-054_List View_Column Filter" classname="Test Cases/SANT-TC-054_List View_Column Filter" status="PASSED">
+         <system-out><![CDATA[2018-09-19 19:15:14 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-054_List View_Column Filter: Test Cases/SANT-TC-054_List View_Column Filter
+
+2018-09-19 19:15:14 - [TEST_STEP][PASSED] - search.List_View_Search.listViewSearch_Column: search.List_View_Search.listViewSearch_Column is PASSED
+
+2018-09-19 19:15:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:15:17 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:15:25 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:15:25 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:15:25 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:15:25 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:15:25 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:15:26 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:15:26 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:15:31 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:15:43 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 19:15:43 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:15:50 - [MESSAGE][PASSED] - Delayed 7 second(s)
+
+2018-09-19 19:15:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:15:53 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 44f240883a7b3ba4e1bfe5494ed9edd4)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364753575.png]]
+
+2018-09-19 19:15:53 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:15:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:15:57 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideMenu' is present
+
+2018-09-19 19:15:57 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/hideMenu' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 44f240883a7b3ba4e1bfe5494ed9edd4)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364757113.png]]
+
+2018-09-19 19:15:57 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:16:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:16:00 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/expandAndMinimize' is present
+
+2018-09-19 19:16:05 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:16:06 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/expandAndMinimize' is clicked on
+
+2018-09-19 19:16:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:16:09 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:16:09 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/listsearch' is cleared
+
+2018-09-19 19:16:09 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:16:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:16:14 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/layoutlist' is clicked on
+
+2018-09-19 19:16:19 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:16:21 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:16:21 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/workOrder/sellay' successfully
+
+2018-09-19 19:16:21 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/sellay' is clicked on
+
+2018-09-19 19:16:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:16:24 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/filter_icon' is clicked on
+
+2018-09-19 19:16:29 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:16:29 - [MESSAGE][PASSED] - Text of object 'Object Repository/workOrder/column_sel' is: 'WKO-01946'
+
+2018-09-19 19:16:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:16:33 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/column_sel' is clicked on
+
+2018-09-19 19:16:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:16:36 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/calendar_OK' is clicked on
+
+2018-09-19 19:16:41 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:16:41 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:16:41 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/groupAndType' is present
+
+2018-09-19 19:16:41 - [MESSAGE][PASSED] - search.List_View_Search.listViewSearch_Column is PASSED
+
+2018-09-19 19:16:41 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 19:16:46 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:16:46 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 19:16:46 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:16:46 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 19:16:47 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 19:16:47 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-055_List View_Row Filter" classname="Test Cases/SANT-TC-055_List View_Row Filter" status="PASSED">
+         <system-out><![CDATA[2018-09-19 19:16:47 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-055_List View_Row Filter: Test Cases/SANT-TC-055_List View_Row Filter
+
+2018-09-19 19:16:47 - [TEST_STEP][PASSED] - search.List_View_Search.listViewSearch_Row: search.List_View_Search.listViewSearch_Row is PASSED
+
+2018-09-19 19:16:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:16:51 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:16:59 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:16:59 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:16:59 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:17:00 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:17:00 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:17:00 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:17:00 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:17:05 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:17:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 19:17:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:17:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:17:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:17:26 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 37c15afded200132006007724abc77e7)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364845883.png]]
+
+2018-09-19 19:17:26 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:17:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:17:29 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideMenu' is present
+
+2018-09-19 19:17:29 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/hideMenu' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 37c15afded200132006007724abc77e7)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364849336.png]]
+
+2018-09-19 19:17:29 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:17:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:17:32 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/expandAndMinimize' is present
+
+2018-09-19 19:17:37 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:17:37 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/expandAndMinimize' is clicked on
+
+2018-09-19 19:17:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:17:40 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:17:45 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:17:46 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/layoutlist' is clicked on
+
+2018-09-19 19:17:51 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:17:52 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:17:52 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/workOrder/sellay' successfully
+
+2018-09-19 19:17:52 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/sellay' is clicked on
+
+2018-09-19 19:17:52 - [MESSAGE][PASSED] - Attribute 'title' of object 'Object Repository/workOrder/wo_fromlist' is: 'WKO-01946'
+
+2018-09-19 19:17:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:17:56 - [MESSAGE][PASSED] - Text 'WKO-01946' is set on object 'Object Repository/workOrder/listsearch'
+
+2018-09-19 19:18:01 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:18:01 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/groupAndType' is present
+
+2018-09-19 19:18:01 - [MESSAGE][PASSED] - search.List_View_Search.listViewSearch_Row is PASSED
+
+2018-09-19 19:18:01 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 19:18:06 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:18:06 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 19:18:06 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:18:06 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 19:18:07 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 19:18:07 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-058_List View_EditAndSave" classname="Test Cases/SANT-TC-058_List View_EditAndSave" status="PASSED">
+         <system-out><![CDATA[2018-09-19 19:18:07 - [TEST_CASE][PASSED] - Test Cases/SANT-TC-058_List View_EditAndSave: Test Cases/SANT-TC-058_List View_EditAndSave
+
+2018-09-19 19:18:07 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:18:07 - [TEST_STEP][PASSED] - Statement - WO_name = woDescription + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 19:18:07 - [TEST_STEP][PASSED] - work_Order.WO_EditAndSave_ListLayout.editAndSave: work_Order.WO_EditAndSave_ListLayout.editAndSave is PASSED
+
+2018-09-19 19:18:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:18:11 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:18:18 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:18:18 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:18:19 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:18:19 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:18:19 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:18:19 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:18:19 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:18:24 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:18:34 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 19:18:34 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:18:34 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:18:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:18:41 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 7319767f82cfe7a0da5b179c8763d178)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364921185.png]]
+
+2018-09-19 19:18:41 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:18:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:18:44 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideMenu' is present
+
+2018-09-19 19:18:44 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/hideMenu' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 7319767f82cfe7a0da5b179c8763d178)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537364924615.png]]
+
+2018-09-19 19:18:44 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:18:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:18:47 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/expandAndMinimize' is present
+
+2018-09-19 19:18:52 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:18:53 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/expandAndMinimize' is clicked on
+
+2018-09-19 19:18:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:18:56 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:19:01 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:19:01 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/layoutlist' is clicked on
+
+2018-09-19 19:19:06 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:19:07 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:19:07 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/workOrder/sellay' successfully
+
+2018-09-19 19:19:07 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/sellay' is clicked on
+
+2018-09-19 19:19:07 - [MESSAGE][PASSED] - Attribute 'title' of object 'Object Repository/workOrder/wo_fromlist' is: 'WKO-01946'
+
+2018-09-19 19:19:12 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:19:13 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/wo_fromlist' is clicked on
+
+2018-09-19 19:19:18 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:19:18 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/edit_list' is clicked on
+
+2018-09-19 19:19:20 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:19:21 - [MESSAGE][PASSED] - Text 'WO Sanity Test_1537364887803' is set on object 'Object Repository/workOrder/edit_wo'
+
+2018-09-19 19:19:21 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:19:22 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/Save_ListLayout' is clicked on
+
+2018-09-19 19:19:22 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:19:22 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/created_WO_List' is present
+
+2018-09-19 19:19:22 - [MESSAGE][PASSED] - work_Order.WO_EditAndSave_ListLayout.editAndSave is PASSED
+
+2018-09-19 19:19:22 - [TEST_STEP][PASSED] - commonUtils.Common.logoutAndCloseBrowser: commonUtils.Common.logoutAndCloseBrowser is PASSED
+
+2018-09-19 19:19:27 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:19:27 - [MESSAGE][PASSED] - Object: 'Object Repository/homePage/settings' is clicked on
+
+2018-09-19 19:19:27 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:19:27 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is present
+
+2018-09-19 19:19:28 - [MESSAGE][PASSED] - Browser is closed
+
+2018-09-19 19:19:28 - [MESSAGE][PASSED] - commonUtils.Common.logoutAndCloseBrowser is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SANT-TC-066,067_WO_Media_Upload and Verify" classname="Test Cases/SANT-TC-066,067_WO_Media_Upload and Verify" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element &lt;a class=&quot;icon_action collapse_icon margin_L10&quot; title=&quot;Minimize&quot; ng-click=&quot;listViewViewStatus('Normal', true)&quot;>&lt;/a> is not clickable at point (60, 88). Other element would receive the click: &lt;html lang=&quot;en&quot; class=&quot;ng-scope&quot;>...&lt;/html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 47b8f8b26cb3a25f026fd20e7c27f3c6)"/>
+         <system-out><![CDATA[2018-09-19 19:19:28 - [TEST_CASE][FAILED] - Test Cases/SANT-TC-066,067_WO_Media_Upload and Verify: Test Cases/SANT-TC-066,067_WO_Media_Upload and Verify FAILED because (of) Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <a class="icon_action collapse_icon margin_L10" title="Minimize" ng-click="listViewViewStatus('Normal', true)"></a> is not clickable at point (60, 88). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 47b8f8b26cb3a25f026fd20e7c27f3c6)
+
+2018-09-19 19:19:28 - [TEST_STEP][PASSED] - Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:19:28 - [TEST_STEP][PASSED] - Statement - media = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(5, 1): Test data is internal data, reading internal data
+
+2018-09-19 19:19:28 - [TEST_STEP][PASSED] - Statement - mediaName = media + java.lang.System.currentTimeMillis(): null
+
+2018-09-19 19:19:28 - [TEST_STEP][FAILED] - media.uploadMediatoWO.uploadMedia: Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <a class="icon_action collapse_icon margin_L10" title="Minimize" ng-click="listViewViewStatus('Normal', true)"></a> is not clickable at point (60, 88). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 47b8f8b26cb3a25f026fd20e7c27f3c6)
+
+2018-09-19 19:19:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-19 19:19:32 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-19 19:19:40 - [MESSAGE][PASSED] - Navigate to 'https://mpulse8.com/#/' successfully
+
+2018-09-19 19:19:40 - [MESSAGE][PASSED] - Object 'Object Repository/loginPage/username' is clickable
+
+2018-09-19 19:19:40 - [MESSAGE][PASSED] - Text 'abhi' is set on object 'Object Repository/loginPage/username'
+
+2018-09-19 19:19:40 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/loginPage/password'
+
+2018-09-19 19:19:40 - [MESSAGE][PASSED] - Keys 'mpulse8_inapp' sent to object: 'Object Repository/loginPage/database_name'
+
+2018-09-19 19:19:40 - [MESSAGE][PASSED] - Object: 'Object Repository/loginPage/Login_btn' is clicked on
+
+2018-09-19 19:19:40 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:19:45 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:19:58 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/workOrders' is clicked on
+
+2018-09-19 19:19:58 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/WORecords' is clicked on
+
+2018-09-19 19:19:58 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:20:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:20:05 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/cancel' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 47b8f8b26cb3a25f026fd20e7c27f3c6)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537365005064.png]]
+
+2018-09-19 19:20:05 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:20:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:20:08 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/hideMenu' is present
+
+2018-09-19 19:20:08 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/hideMenu' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 47b8f8b26cb3a25f026fd20e7c27f3c6)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537365008509.png]]
+
+2018-09-19 19:20:08 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:20:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:20:11 - [MESSAGE][PASSED] - Object 'Object Repository/workOrder/expandAndMinimize' is present
+
+2018-09-19 19:20:16 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-09-19 19:20:17 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/expandAndMinimize' is clicked on
+
+2018-09-19 19:20:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-19 19:20:20 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-09-19 19:20:20 - [MESSAGE][PASSED] - Object: 'Object Repository/workOrder/wolayout' is clicked on
+
+2018-09-19 19:20:22 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:20:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/SMR/scrollcontainer' successfully
+
+2018-09-19 19:20:23 - [MESSAGE][PASSED] - Object: 'Object Repository/SMR/scrollcontainer' is clicked on
+
+2018-09-19 19:20:25 - [MESSAGE][PASSED] - Angular is ready.
+
+2018-09-19 19:20:26 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <a class="icon_action collapse_icon margin_L10" title="Minimize" ng-click="listViewViewStatus('Normal', true)"></a> is not clickable at point (60, 88). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 47b8f8b26cb3a25f026fd20e7c27f3c6)
+[[ATTACHMENT|D:\\Repo\\InApp-QA-Automation\\Mpulse_Automation\\Reports\\Test Suite For Demo\\20180919_184432\\1537365025786.png]]
+
+2018-09-19 19:20:26 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <a class="icon_action collapse_icon margin_L10" title="Minimize" ng-click="listViewViewStatus('Normal', true)"></a> is not clickable at point (60, 88). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 47b8f8b26cb3a25f026fd20e7c27f3c6)]]></system-out>
+         <system-err><![CDATA[2018-09-19 19:19:28 - [TEST_CASE][FAILED] - Test Cases/SANT-TC-066,067_WO_Media_Upload and Verify: Test Cases/SANT-TC-066,067_WO_Media_Upload and Verify FAILED because (of) Unable to click on object 'Object Repository/workOrder/expandAndMinimize' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <a class="icon_action collapse_icon margin_L10" title="Minimize" ng-click="listViewViewStatus('Normal', true)"></a> is not clickable at point (60, 88). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 47b8f8b26cb3a25f026fd20e7c27f3c6)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-19 18:44:34 - [TEST_SUITE][FAILED] - Test Suite For Demo: Test Cases/SANT-TC-042_SMR_Fixed Schedule FAILED because (of) Unable to click on object 'Object Repository/workOrder/workOrderTabs' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div data-options="dxTemplate: {name : 'title'  }" title="" ng-show="item.Text" class="dx-template-wrapper ng-binding ng-scope dx-item-content dx-tab-content">...</div> is not clickable at point (150, 136). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)]]></system-out>
+      <system-err><![CDATA[2018-09-19 18:44:34 - [TEST_SUITE][FAILED] - Test Suite For Demo: Test Cases/SANT-TC-042_SMR_Fixed Schedule FAILED because (of) Unable to click on object 'Object Repository/workOrder/workOrderTabs' (Root cause: org.openqa.selenium.WebDriverException: unknown error: Element <div data-options="dxTemplate: {name : 'title'  }" title="" ng-show="item.Text" class="dx-template-wrapper ng-binding ng-scope dx-item-content dx-tab-content">...</div> is not clickable at point (150, 136). Other element would receive the click: <html lang="en" class="ng-scope">...</html>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-IC62SMV', ip: '192.168.4.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\Braseela\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 59934752d44c89c7021d188680537d68)]]></system-err>
+   </testsuite>
+</testsuites>

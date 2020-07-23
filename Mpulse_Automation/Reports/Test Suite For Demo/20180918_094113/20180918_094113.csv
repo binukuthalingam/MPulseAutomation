@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite For Demo,Chrome 68.0.3440.106,,2018-09-18 09:41:16,2018-09-18 09:44:53,3m - 37.849s,FAILED
+,,,,,,
+Test Cases/SANT-TC-028_WO_Close_FormLayout,Chrome 68.0.3440.106,,2018-09-18 09:41:16,2018-09-18 09:44:53,3m - 36.299s,FAILED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1)",Chrome 68.0.3440.106,,2018-09-18 09:41:17,2018-09-18 09:41:17,0.087s,PASSED
+"Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1)",Chrome 68.0.3440.106,,2018-09-18 09:41:17,2018-09-18 09:41:17,0.042s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1)",Chrome 68.0.3440.106,,2018-09-18 09:41:17,2018-09-18 09:41:17,0.012s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1)",Chrome 68.0.3440.106,,2018-09-18 09:41:17,2018-09-18 09:41:17,0.022s,PASSED
+Statement - woDes = woDescription + java.lang.System.currentTimeMillis(),Chrome 68.0.3440.106,,2018-09-18 09:41:17,2018-09-18 09:41:17,0.001s,PASSED
+work_Order.WO_Creation_FormLayout.workOrderCreation,Chrome 68.0.3440.106,,2018-09-18 09:41:17,2018-09-18 09:44:16,2m - 58.641s,PASSED
+work_Order.WO_Close_FormLayout.closeWorkOrderFormLayout,Chrome 68.0.3440.106,,2018-09-18 09:44:16,2018-09-18 09:44:53,37.003s,FAILED

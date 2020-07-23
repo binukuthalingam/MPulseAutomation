@@ -1,0 +1,119 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite For Demo,Chrome 69.0.3497.100,,2018-09-20 14:19:25,2018-09-20 14:58:53,39m - 28.158s,FAILED
+,,,,,,
+Test Cases/SANT-TC-028_WO_Close_FormLayout,Chrome 69.0.3497.100,,2018-09-20 14:19:26,2018-09-20 14:23:22,3m - 56.153s,PASSED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:19:26,2018-09-20 14:19:27,0.095s,PASSED
+"Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:19:27,2018-09-20 14:19:27,0.113s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:19:27,2018-09-20 14:19:27,0.094s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1)",Chrome 69.0.3497.100,,2018-09-20 14:19:27,2018-09-20 14:19:27,0.138s,PASSED
+Statement - woDes = woDescription + java.lang.System.currentTimeMillis(),Chrome 69.0.3497.100,,2018-09-20 14:19:27,2018-09-20 14:19:27,0.042s,PASSED
+work_Order.WO_Creation_FormLayout.workOrderCreation,Chrome 69.0.3497.100,,2018-09-20 14:19:27,2018-09-20 14:22:52,3m - 24.720s,PASSED
+work_Order.WO_Close_FormLayout.closeWorkOrderFormLayout,Chrome 69.0.3497.100,,2018-09-20 14:22:52,2018-09-20 14:23:15,23.424s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:23:15,2018-09-20 14:23:22,6.768s,PASSED
+,,,,,,
+Test Cases/SANT-TC-029_WO_Cancel_FormLayout,Chrome 69.0.3497.100,,2018-09-20 14:23:22,2018-09-20 14:27:26,4m - 4.293s,PASSED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:23:22,2018-09-20 14:23:22,0.015s,PASSED
+"Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:23:22,2018-09-20 14:23:22,0.000s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:23:22,2018-09-20 14:23:22,0.016s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1)",Chrome 69.0.3497.100,,2018-09-20 14:23:22,2018-09-20 14:23:22,0.009s,PASSED
+Statement - woDes = woDescription + java.lang.System.currentTimeMillis(),Chrome 69.0.3497.100,,2018-09-20 14:23:22,2018-09-20 14:23:22,0.000s,PASSED
+work_Order.WO_Creation_FormLayout.workOrderCreation,Chrome 69.0.3497.100,,2018-09-20 14:23:22,2018-09-20 14:26:57,3m - 34.556s,PASSED
+work_Order.WO_Cancel_FromLayout.cancelWorkOrderFormLayout,Chrome 69.0.3497.100,,2018-09-20 14:26:57,2018-09-20 14:27:20,22.867s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:27:20,2018-09-20 14:27:26,6.559s,PASSED
+,,,,,,
+Test Cases/SANT-TC-030_WO_Hold_FormLayout,Chrome 69.0.3497.100,,2018-09-20 14:27:26,2018-09-20 14:30:48,3m - 22.016s,PASSED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:27:26,2018-09-20 14:27:26,0.016s,PASSED
+"Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:27:26,2018-09-20 14:27:26,0.000s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:27:26,2018-09-20 14:27:27,0.044s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1)",Chrome 69.0.3497.100,,2018-09-20 14:27:27,2018-09-20 14:27:27,0.000s,PASSED
+Statement - woDes = woDescription + java.lang.System.currentTimeMillis(),Chrome 69.0.3497.100,,2018-09-20 14:27:27,2018-09-20 14:27:27,0.000s,PASSED
+work_Order.WO_Creation_FormLayout.workOrderCreation,Chrome 69.0.3497.100,,2018-09-20 14:27:27,2018-09-20 14:30:21,2m - 54.894s,PASSED
+work_Order.WO_Hold_FormLayout.holdWorkOrderFormLayout,Chrome 69.0.3497.100,,2018-09-20 14:30:21,2018-09-20 14:30:42,20.593s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:30:42,2018-09-20 14:30:48,6.213s,PASSED
+,,,,,,
+Test Cases/SANT-TC-032_WO_Close_ListLayout,Chrome 69.0.3497.100,,2018-09-20 14:30:48,2018-09-20 14:32:09,1m - 20.604s,FAILED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:30:48,2018-09-20 14:30:48,0.037s,PASSED
+Statement - WO_name = woDescription + java.lang.System.currentTimeMillis(),Chrome 69.0.3497.100,,2018-09-20 14:30:48,2018-09-20 14:30:48,0.000s,PASSED
+work_Order.WO_Creation_ListLayout.workOrderCreationList,Chrome 69.0.3497.100,,2018-09-20 14:30:48,2018-09-20 14:32:05,1m - 16.771s,PASSED
+work_Order.WO_Close_ListLayout.closeWorkOrderListLayout,Chrome 69.0.3497.100,,2018-09-20 14:32:05,2018-09-20 14:32:09,3.556s,FAILED
+,,,,,,
+Test Cases/SANT-TC-035_MR_To_WO_FormLayout,Chrome 69.0.3497.100,,2018-09-20 14:32:09,2018-09-20 14:35:42,3m - 33.315s,PASSED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:32:09,2018-09-20 14:32:09,0.031s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:32:09,2018-09-20 14:32:09,0.003s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:32:09,2018-09-20 14:32:09,0.005s,PASSED
+"Statement - woDes = woDescription + ""_"" + java.lang.System.currentTimeMillis()",Chrome 69.0.3497.100,,2018-09-20 14:32:09,2018-09-20 14:32:09,0.000s,PASSED
+maintenance_Records.MR_Creation_FormLayout.MRCreation,Chrome 69.0.3497.100,,2018-09-20 14:32:09,2018-09-20 14:35:13,3m - 3.706s,PASSED
+maintenance_Records.MR_ConverttoWO.MRtoWO,Chrome 69.0.3497.100,,2018-09-20 14:35:13,2018-09-20 14:35:36,23.006s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:35:36,2018-09-20 14:35:42,6.363s,PASSED
+,,,,,,
+Test Cases/SANT-TC-035_MR_To_WO_ListLayout,Chrome 69.0.3497.100,,2018-09-20 14:35:42,2018-09-20 14:37:08,1m - 26.122s,PASSED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:35:42,2018-09-20 14:35:43,0.014s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:35:43,2018-09-20 14:35:43,0.000s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(maintenanceRecords/MR).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:35:43,2018-09-20 14:35:43,0.000s,PASSED
+Statement - woDes = woDescription + java.lang.System.currentTimeMillis(),Chrome 69.0.3497.100,,2018-09-20 14:35:43,2018-09-20 14:35:43,0.000s,PASSED
+maintenance_Records.MR_Creation_ListLayout.MR_Creation_List,Chrome 69.0.3497.100,,2018-09-20 14:35:43,2018-09-20 14:36:48,1m - 5.543s,PASSED
+maintenance_Records.MR_ConverttoWO_ListLayout.convertWKOFromListLayout,Chrome 69.0.3497.100,,2018-09-20 14:36:48,2018-09-20 14:37:02,13.763s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:37:02,2018-09-20 14:37:08,6.468s,PASSED
+,,,,,,
+Test Cases/SANT-TC-041_SMR_Floating Schedule,Chrome 69.0.3497.100,,2018-09-20 14:37:08,2018-09-20 14:39:47,2m - 38.243s,PASSED
+"Statement - SMRDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:37:09,2018-09-20 14:37:09,0.013s,PASSED
+"Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:37:09,2018-09-20 14:37:09,0.000s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:37:09,2018-09-20 14:37:09,0.000s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(4, 1)",Chrome 69.0.3497.100,,2018-09-20 14:37:09,2018-09-20 14:37:09,0.000s,PASSED
+"Statement - SMRDes = SMRDescription + ""_"" + java.lang.System.currentTimeMillis()",Chrome 69.0.3497.100,,2018-09-20 14:37:09,2018-09-20 14:37:09,0.000s,PASSED
+scheduled_Maintenance_Records.SMR_Creation.SMRCreationFloating,Chrome 69.0.3497.100,,2018-09-20 14:37:09,2018-09-20 14:39:40,2m - 31.669s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:39:40,2018-09-20 14:39:47,6.201s,PASSED
+,,,,,,
+Test Cases/SANT-TC-042_SMR_Fixed Schedule,Chrome 69.0.3497.100,,2018-09-20 14:39:47,2018-09-20 14:42:23,2m - 36.665s,FAILED
+"Statement - SMRDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:39:47,2018-09-20 14:39:47,0.075s,PASSED
+"Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:39:47,2018-09-20 14:39:47,0.070s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:39:47,2018-09-20 14:39:47,0.077s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(4, 1)",Chrome 69.0.3497.100,,2018-09-20 14:39:47,2018-09-20 14:39:47,0.012s,PASSED
+"Statement - SMRDes = SMRDescription + ""_"" + java.lang.System.currentTimeMillis()",Chrome 69.0.3497.100,,2018-09-20 14:39:47,2018-09-20 14:39:47,0.001s,PASSED
+scheduled_Maintenance_Records.SMR_Creation.SMRCreationFixed,Chrome 69.0.3497.100,,2018-09-20 14:39:47,2018-09-20 14:42:23,2m - 36.072s,FAILED
+,,,,,,
+Test Cases/SANT-TC-043_SMR_Meter Based Schedule,Chrome 69.0.3497.100,,2018-09-20 14:42:23,2018-09-20 14:45:48,3m - 25.167s,PASSED
+"Statement - SMRDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:42:23,2018-09-20 14:42:23,0.003s,PASSED
+"Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:42:23,2018-09-20 14:42:23,0.015s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:42:23,2018-09-20 14:42:23,0.002s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(SMR/SMR).getValue(4, 1)",Chrome 69.0.3497.100,,2018-09-20 14:42:23,2018-09-20 14:42:23,0.003s,PASSED
+"Statement - SMRDes = SMRDescription + ""_"" + java.lang.System.currentTimeMillis()",Chrome 69.0.3497.100,,2018-09-20 14:42:23,2018-09-20 14:42:23,0.000s,PASSED
+scheduled_Maintenance_Records.SMR_Creation.SMRCreationMeterBased,Chrome 69.0.3497.100,,2018-09-20 14:42:23,2018-09-20 14:45:42,3m - 18.608s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:45:42,2018-09-20 14:45:48,6.310s,PASSED
+,,,,,,
+Test Cases/SANT-TC-044_Reports_Form view_Current Record_New WO,Chrome 69.0.3497.100,,2018-09-20 14:45:48,2018-09-20 14:49:32,3m - 43.911s,PASSED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:45:49,2018-09-20 14:45:49,0.043s,PASSED
+"Statement - taskName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(2, 1)",Chrome 69.0.3497.100,,2018-09-20 14:45:49,2018-09-20 14:45:49,0.282s,PASSED
+"Statement - assetName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(3, 1)",Chrome 69.0.3497.100,,2018-09-20 14:45:49,2018-09-20 14:45:49,0.154s,PASSED
+"Statement - inventoryName = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(4, 1)",Chrome 69.0.3497.100,,2018-09-20 14:45:49,2018-09-20 14:45:49,0.001s,PASSED
+"Statement - WODes = woDescription + ""_"" + java.lang.System.currentTimeMillis()",Chrome 69.0.3497.100,,2018-09-20 14:45:49,2018-09-20 14:45:49,0.000s,PASSED
+work_Order.WO_Creation_FormLayout.workOrderCreation,Chrome 69.0.3497.100,,2018-09-20 14:45:49,2018-09-20 14:48:51,3m - 2.044s,PASSED
+reports.Form_View.formView_CurrentRecord_New,Chrome 69.0.3497.100,,2018-09-20 14:48:51,2018-09-20 14:49:26,34.750s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:49:26,2018-09-20 14:49:32,6.278s,PASSED
+,,,,,,
+Test Cases/SANT-TC-044_Reports_Form view_Current Record_Old WO,Chrome 69.0.3497.100,,2018-09-20 14:49:32,2018-09-20 14:50:55,1m - 22.803s,PASSED
+reports.Form_View.formView_CurrentRecord_Old,Chrome 69.0.3497.100,,2018-09-20 14:49:33,2018-09-20 14:50:49,1m - 16.254s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:50:49,2018-09-20 14:50:55,6.252s,PASSED
+,,,,,,
+Test Cases/SANT-TC-054_List View_Column Filter,Chrome 69.0.3497.100,,2018-09-20 14:50:55,2018-09-20 14:52:27,1m - 31.928s,FAILED
+search.List_View_Search.listViewSearch_Column,Chrome 69.0.3497.100,,2018-09-20 14:50:55,2018-09-20 14:52:27,1m - 31.735s,FAILED
+,,,,,,
+Test Cases/SANT-TC-055_List View_Row Filter,Chrome 69.0.3497.100,,2018-09-20 14:52:27,2018-09-20 14:53:55,1m - 27.812s,PASSED
+search.List_View_Search.listViewSearch_Row,Chrome 69.0.3497.100,,2018-09-20 14:52:27,2018-09-20 14:53:48,1m - 21.206s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:53:48,2018-09-20 14:53:55,6.327s,PASSED
+,,,,,,
+Test Cases/SANT-TC-058_List View_EditAndSave,Chrome 69.0.3497.100,,2018-09-20 14:53:55,2018-09-20 14:56:02,2m - 7.566s,PASSED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:53:55,2018-09-20 14:53:55,0.000s,PASSED
+Statement - WO_name = woDescription + java.lang.System.currentTimeMillis(),Chrome 69.0.3497.100,,2018-09-20 14:53:55,2018-09-20 14:53:55,0.000s,PASSED
+work_Order.WO_EditAndSave_ListLayout.editAndSave,Chrome 69.0.3497.100,,2018-09-20 14:53:55,2018-09-20 14:55:56,2m - 1.082s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:55:56,2018-09-20 14:56:02,6.278s,PASSED
+,,,,,,
+"Test Cases/SANT-TC-066,067_WO_Media_Upload and Verify",Chrome 69.0.3497.100,,2018-09-20 14:56:02,2018-09-20 14:57:36,1m - 33.348s,PASSED
+"Statement - woDescription = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(1, 1)",Chrome 69.0.3497.100,,2018-09-20 14:56:03,2018-09-20 14:56:03,0.000s,PASSED
+"Statement - media = com.kms.katalon.core.testdata.TestDataFactory.findTestData(workOrder/workOrder).getValue(5, 1)",Chrome 69.0.3497.100,,2018-09-20 14:56:03,2018-09-20 14:56:03,0.015s,PASSED
+Statement - mediaName = media + java.lang.System.currentTimeMillis(),Chrome 69.0.3497.100,,2018-09-20 14:56:03,2018-09-20 14:56:03,0.000s,PASSED
+media.uploadMediatoWO.uploadMedia,Chrome 69.0.3497.100,,2018-09-20 14:56:03,2018-09-20 14:57:29,1m - 26.886s,PASSED
+commonUtils.Common.logoutAndCloseBrowser,Chrome 69.0.3497.100,,2018-09-20 14:57:29,2018-09-20 14:57:36,6.286s,PASSED
+,,,,,,
+Test Cases/Layout_selection,Chrome 69.0.3497.100,,2018-09-20 14:57:36,2018-09-20 14:58:53,1m - 17.213s,PASSED
+commonUtils.layout_select.layout_selection,Chrome 69.0.3497.100,,2018-09-20 14:57:36,2018-09-20 14:58:53,1m - 17.064s,PASSED

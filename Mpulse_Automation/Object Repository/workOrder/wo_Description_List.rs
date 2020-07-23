@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wo_Description_List</name>
+   <tag></tag>
+   <elementGuidId>fb3a5c84-562b-4c52-8b60-1b4e2aa0fe30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr[@aria-selected]//div[@class=&quot;dx-texteditor-container&quot;]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr[@aria-selected]//div[@class=&quot;dx-texteditor-container&quot;]/input</value>
+   </webElementProperties>
+</WebElementEntity>

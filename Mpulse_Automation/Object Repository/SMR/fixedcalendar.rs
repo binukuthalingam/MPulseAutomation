@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fixedcalendar</name>
+   <tag></tag>
+   <elementGuidId>cca8796e-73f5-4c27-8593-18e54bd8ddce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@dx-date-box='configFixedStartDateBox']//div[@class='dx-dropdowneditor-icon']</value>
+   </webElementProperties>
+</WebElementEntity>

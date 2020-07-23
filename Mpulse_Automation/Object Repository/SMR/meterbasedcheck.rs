@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>meterbasedcheck</name>
+   <tag></tag>
+   <elementGuidId>3774951c-0496-41d2-998e-2d46ca83188c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='tab-content']//div[@dx-check-box='configMeterBasedCheckBox']//span[@class='dx-checkbox-icon']</value>
+   </webElementProperties>
+</WebElementEntity>

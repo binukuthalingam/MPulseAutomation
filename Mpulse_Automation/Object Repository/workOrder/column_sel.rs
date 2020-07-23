@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>column_sel</name>
+   <tag></tag>
+   <elementGuidId>d4e0ec4d-f6a8-4ea6-aa7c-94f5290d71ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@role=&quot;listbox&quot;]//div[contains(text(),'WKO-')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@role=&quot;listbox&quot;]//div[contains(text(),'WKO-')])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

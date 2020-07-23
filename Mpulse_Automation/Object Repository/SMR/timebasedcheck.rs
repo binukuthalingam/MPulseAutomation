@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>timebasedcheck</name>
+   <tag></tag>
+   <elementGuidId>11058292-30c7-4a06-bc3a-ddb6e6ee1907</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='tab-content']//div[@dx-check-box='configTimeBasedCheckBox']//span[@class='dx-checkbox-icon']</value>
+   </webElementProperties>
+</WebElementEntity>
